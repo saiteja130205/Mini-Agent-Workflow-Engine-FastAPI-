@@ -50,9 +50,10 @@ Click Try it out, then paste:
         "false_next": null
       }
     }
-  ],
+   ],
   "start_node": "split_text"
 }
+
 
 The response will contain: { "graph_id": "DISTINCT_GRAPH_ID" }
 
